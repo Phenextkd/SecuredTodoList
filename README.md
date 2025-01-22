@@ -68,7 +68,8 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 - `src/components`: Contains reusable components.
 - `src/hooks`: Contains custom hooks.
 - `src/screens`: Contains screen components.
-- `src/styles`: Contains style definitions.
+- `src/context`: Contains custom context definitions.
+- `src/types`: Contains type definitions.
 
 # Running Tests
 
