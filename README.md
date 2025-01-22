@@ -65,10 +65,10 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 # Project Structure
 
-components: Contains reusable components.
-hooks: Contains custom hooks.
-screens: Contains screen components.
-src/styles: Contains style definitions.
+- `src/components`: Contains reusable components.
+- `src/hooks`: Contains custom hooks.
+- `src/screens`: Contains screen components.
+- `src/styles`: Contains style definitions.
 
 # Running Tests
 
